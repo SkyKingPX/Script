@@ -2533,7 +2533,7 @@
     {
       "platform": "Windows",
       "language": "en_us",
-      "image": "https://hytale.com/static/images/logo.png",
+      "image": "https://mcsmanager.oss-cn-guangzhou.aliyuncs.com/package-images/Hytale.jpg",
       "gameType": "Hytale",
       "description": "Hytale Quick Server Setup, Mod Support",
       "title": "Hytale Server",
@@ -2554,7 +2554,7 @@
     {
       "platform": "Linux",
       "language": "en_us",
-      "image": "https://hytale.com/static/images/logo.png",
+      "image": "https://mcsmanager.oss-cn-guangzhou.aliyuncs.com/package-images/Hytale.jpg",
       "gameType": "Hytale",
       "description": "Hytale Quick Server Setup, Mod Support",
       "title": "Hytale Server",
